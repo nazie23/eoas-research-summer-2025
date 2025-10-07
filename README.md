@@ -28,4 +28,4 @@ This repository contains the code I wrote to analyze ERA5 data in order to answe
 
 ---
 
-Copyright (C) 2025 Nazia Edroos
+Copyright ©️ 2025 Nazia Edroos
