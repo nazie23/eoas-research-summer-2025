@@ -15,16 +15,16 @@ This repository contains the code I wrote to analyze ERA5 data in order to answe
 ### Part 3: Anomaly in mean number of cold wave days occurring at the same time as Pacific Coast 90th percentile high-amplitude QSWs
 
 ## Conclusions
-• Specific Rossby wave patterns seem to be becoming more intense over time in the Northern Hemisphere
-• In the Pacific Coast area:
-  • Annual trend in QSW amplitude increasing over time
-  • 90th percentile QSW amplitudes are becoming more extreme
-  • Average length of 90th percentile persistent events is increasing significantly
-  • Frequency of above events is increasing to a lesser extent
-• During Pacific Coast 90th percentile QSW events:
-  • Average minimum temperatures are becoming colder in most of North America
-  • Strong negative trend in these temperatures
-  • Average number of cold wave days is significantly higher in North America
+* Specific Rossby wave patterns seem to be becoming more intense over time in the Northern Hemisphere
+* In the Pacific Coast area:
+  * Annual trend in QSW amplitude increasing over time
+  * 90th percentile QSW amplitudes are becoming more extreme
+  * Average length of 90th percentile persistent events is increasing significantly
+  * Frequency of above events is increasing to a lesser extent
+* During Pacific Coast 90th percentile QSW events:
+  * Average minimum temperatures are becoming colder in most of North America
+  * Strong negative trend in these temperatures
+  * Average number of cold wave days is significantly higher in North America
 
 ---
 
